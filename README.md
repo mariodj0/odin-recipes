@@ -1,3 +1,3 @@
 # odin-recipes
 
-HTML test project
+HTML hobby project
